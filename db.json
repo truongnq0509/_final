@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "product A update text",
+      "price": "1000fdfd",
+      "desc": "....",
+      "id": 1
+    },
+    {
+      "name": "testfdfdffdfd update",
+      "price": "dfdffdf",
+      "desc": "...",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "truongmoba157@gmail.com",
+      "password": "$2a$10$f.776GDRaYSTRoHI8FhHJuXPmBZMr9Wjwv8jYT3i1a2t5PKlkPOkS",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "email": "truongnqph25759@fpt.edu.vn",
+      "password": "$2a$10$bzd3YBiqnQSty/FtuA0.quyKtRmkteHSEmIfI.7aMKTfgeoL2oe0.",
+      "role": 2,
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$Jqgh29SU8gfBTMgMq6ua8OV5.pzxomtYpmcy8AnIAIKpPMESqrTQS",
+      "role": 2,
+      "id": 3
+    }
+  ]
+}
